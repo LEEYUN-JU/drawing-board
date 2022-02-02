@@ -1,0 +1,11 @@
+C:\Users\eyunj\source\repos\0505_그림판\bin\Debug\0505_그림판.exe.config
+C:\Users\eyunj\source\repos\0505_그림판\bin\Debug\0505_그림판.exe
+C:\Users\eyunj\source\repos\0505_그림판\bin\Debug\0505_그림판.pdb
+C:\Users\eyunj\source\repos\0505_그림판\obj\Debug\0505_그림판.csprojAssemblyReference.cache
+C:\Users\eyunj\source\repos\0505_그림판\obj\Debug\_0505_그림판.Properties.Resources.resources
+C:\Users\eyunj\source\repos\0505_그림판\obj\Debug\0505_그림판.csproj.GenerateResource.cache
+C:\Users\eyunj\source\repos\0505_그림판\obj\Debug\0505_그림판.csproj.CoreCompileInputs.cache
+C:\Users\eyunj\source\repos\0505_그림판\obj\Debug\0505_그림판.exe
+C:\Users\eyunj\source\repos\0505_그림판\obj\Debug\0505_그림판.pdb
+C:\Users\eyunj\source\repos\0505_그림판\obj\Debug\_0505_그림판.Form1.resources
+C:\Users\eyunj\source\repos\0505_그림판\obj\Debug\_0505_그림판.Form2.resources
